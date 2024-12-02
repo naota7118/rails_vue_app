@@ -17,6 +17,6 @@ class Api::V1::EmployeesController < ApiController
   private
 
     def set_employess
-      @employee = employee.find(params[:id])
+      @employee = Employee.find(params[:id])
     end
 end
