@@ -338,7 +338,6 @@ DEPENDENCIES
   rails (~> 7.1.5)
   sassc-rails
   selenium-webdriver
-  sprockets-rails
   sqlite3 (>= 1.4)
   stimulus-rails
   turbo-rails
